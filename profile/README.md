@@ -10,11 +10,43 @@ each repository representing a specific assignment or project.
 
 ## 📚 Courses
 
+---
+
 ### Advanced Programming (Java)
-- ap-java-hw01
-- ap-java-hw02
-- ...
-- ap-java-hw12
+
+- **AP-0**  
+  - [Famous_Quotes_V02](https://github.com/SBU-CodeSpace/AP-Famous_Quotes_V02)
+
+- **AP-First-Assignment**  
+  - [WarmUp](https://github.com/SBU-CodeSpace/AP-First-Assignment-WarmUp)
+  - [Algorithms](https://github.com/SBU-CodeSpace/AP-First-Assignment-Algorithms)
+  - [RegEx](https://github.com/SBU-CodeSpace/AP-First-Assignment-RegEx)
+
+- **AP-First-Workshop**  
+  - [Zoology](https://github.com/SBU-CodeSpace/AP-First-Workshop-Zoology)
+
+- **AP-Second-Assignment**  
+  - [BreakingNews](https://github.com/SBU-CodeSpace/AP-Second-Assignment-BreakingNews)
+
+- **AP-Third-Assignment**  
+  - [JavaRing](https://github.com/SBU-CodeSpace/AP-Third-Assignment-JavaRing)
+
+- **AP-Fourth-Assignment**  
+  - [Steam-Scraper](https://github.com/SBU-CodeSpace/AP-Fourth-Assignment-Steam-Scraper)
+
+- **AP-Fifth-Assignment**  
+  - [Multithreading-Basics](https://github.com/SBU-CodeSpace/AP-Fifth-Assignment-Multithreading-Basics)
+
+- **AP-Sixth-Assignment**  
+  - [Advanced-Multithreading](https://github.com/SBU-CodeSpace/AP-Sixth-Assignment-Advanced-Multithreading)
+
+- **AP-Seventh-Assignment**  
+  - [Socket-Programming](https://github.com/SBU-CodeSpace/AP-Seventh-Assignment-Socket-Programming)
+
+- **AP-Eighth-Assignment**  
+  - [Restaurant](https://github.com/SBU-CodeSpace/AP-Eighth-Assignment-Restaurant)
+
+---
 
 ### Data Structures
 - ds-hw01
