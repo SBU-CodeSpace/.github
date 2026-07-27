@@ -48,10 +48,28 @@ each repository representing a specific assignment or project.
 
 ---
 
-### Data Structures
-- ds-hw01
-- ds-hw02
-- ...
+### Data Structures (Python / Java)
+
+- **DS-01**  
+  - [Sorting-Fundamentals-Bubble-Insertion-Selection](https://github.com/SBU-CodeSpace/DS-01-Sorting-Fundamentals-Bubble-Insertion-Selection)
+
+- **DS-02**  
+  - [Merge-Sort-and-Quick-Sort](https://github.com/SBU-CodeSpace/DS-02-Merge-Sort-and-Quick-Sort)
+
+- **DS-03**  
+  - [Young-Tableau](https://github.com/SBU-CodeSpace/DS-03-Young-Tableau)
+
+- **DS-04**  
+  - [Stable-Binary-Radix-Sort](https://github.com/SBU-CodeSpace/DS-04-Stable-Binary-Radix-Sort)
+
+- **DS-05**  
+  - [Chained-Hash-Table](https://github.com/SBU-CodeSpace/DS-05-Chained-Hash-Table)
+
+- **DS-06**  
+  - [Open-Addressing-Double-Hashing](https://github.com/SBU-CodeSpace/DS-06-Open-Addressing-Double-Hashing)
+
+- **DS-07**  
+  - [BST-vs-Treap](https://github.com/SBU-CodeSpace/DS-07-BST-vs-Treap)
 
 ---
 
